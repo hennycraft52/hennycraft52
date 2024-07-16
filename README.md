@@ -12,3 +12,4 @@
 
 ### Stats
 [![hennycrafts GitHub stats](https://github-readme-stats.vercel.app/api?username=hennycraft52)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hennycraft52"/>
