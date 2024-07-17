@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-### I speak
+### My Langs
 ![](https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs&perline=7)
 
 ### My Tools
