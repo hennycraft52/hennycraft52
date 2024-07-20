@@ -8,7 +8,7 @@
 ![](https://skillicons.dev/icons?i=github,git,discord,gradle,idea,vscode,windows,pycharm,discordjs,electron,figma,flutter,npm,raspberrypi,react,unity,ubuntu,linux,unreal)
 
 ### ^_^
-❤️ Developer & Admin @```BlueMoon Studios```
+❤️ Developer @```BlueMoon Studios```
 ❤️ Founder of ```Ice Labs```
 
 ### Stats
