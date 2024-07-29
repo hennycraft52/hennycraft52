@@ -5,7 +5,10 @@
 ![](https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs&perline=7)
 
 ### Tools
-![](https://skillicons.dev/icons?i=github,git,discord,gradle,idea,vscode,windows,pycharm,discordjs,electron,figma,flutter,npm,raspberrypi,react,unity,ubuntu,linux,unreal)
+![](https://skillicons.dev/icons?i=github,git,discord,gradle,idea,vscode,pycharm,discordjs,electron,figma,flutter,npm,react,unity,unreal)
+
+### OS
+![](https://skillicons.dev/icons?i=windows,raspberrypi,ubuntu,linux)
 
 ### ^_^
 ❤️ Developer @```BlueMoon Studios```
