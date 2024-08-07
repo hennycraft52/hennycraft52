@@ -16,5 +16,5 @@
 ❤️ Founder of ```Ice Labs```
 
 ### Stats
-[![hennycrafts GitHub stats](https://github-readme-stats.vercel.app/api?username=hennycraft52)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hennycraft52"/>
+[![hennycrafts GitHub stats](https://github-readme-stats.vercel.app/api?username=hennycraft52&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
