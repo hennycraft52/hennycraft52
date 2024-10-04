@@ -1,5 +1,4 @@
-# Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Hi+I+am+Hennycraft;my+favourite+Hobby+is+Coding;The+Languages+i+can+use%3A;HTML%2C+CSS%2C+JS%2C+C%23%2C+Java%2C+Kotlin%2C+Python;I+love+Java+%26+Kotlin;my+favourite+Game+is+Minecraft;peepo+forever)](https://git.io/typing-svg)
 
 ### Languages
 ![](https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs&perline=7)
